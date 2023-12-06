@@ -1,0 +1,21 @@
+table, th, td {
+    border: 1px solid black;
+    color: blueviolet;
+    background-color : beige;
+
+}
+th{
+    color: brown;
+}
+h1{
+    color: red;
+}
+body{
+    background-image: url('image1.jpeg');
+}
+p,ul{
+    color: azure;
+}
+h2{
+    color: beige;
+}
