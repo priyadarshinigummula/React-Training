@@ -77,3 +77,15 @@
     display: flex;
    
  }
+ .parentcontainer{
+   margin-bottom: 50px;
+   margin-left: 50px;
+   margin-right: 50px;
+   padding : 30px;
+ }
+ header{
+    margin-left: 70px;
+    padding-top: 20px;
+    font-size: 30px;
+    padding-left: 200px;
+ }
